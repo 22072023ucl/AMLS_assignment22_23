@@ -68,7 +68,7 @@ To run all the files successfully, the following packages are required.
 Matplotlib,OpenCV2,Numpy,Pandas,Dlib,Sklearn,Pickle,Tensorflow
 
 ## Note
-If any model is not found, please find it in the link below.
+Due to the limitation of upload capacity, the trained or required models are not saved in this repository.  Please find them in the link below.
 
 https://drive.google.com/drive/folders/1TRkpczhoyv6o_2fqD16E_05OBX1MrM0k?usp=share_link
 
