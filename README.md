@@ -62,12 +62,13 @@ This code file is to run the whole project. **It is also recommended to use "mai
 ### datasets
 This file contains folders of "celeba, celeba_test, cartoon_set, cartoon_set_test" when the project develops. It is empty now. Anyone who want to run the project should Copy and paste the dataset into this folder. (You may need to create a new folder called "datasets" for this purpose.)
 
-##Packages required
+## Packages required
 To run all the files successfully, the following packages are required.
 Matplotlib,OpenCV2,Numpy,Pandas,Dlib,Sklearn,Pickle,Tensorflow
 
-##Note
+## Note
 If any model is not found, please find it in the link below.
+
 https://drive.google.com/drive/folders/1TRkpczhoyv6o_2fqD16E_05OBX1MrM0k?usp=share_link
 
 Please add the model to the corresponding folder after downloading, so that the code can run successfully.
